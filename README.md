@@ -120,7 +120,8 @@ Attached and detached listeners safely through repository layer.
 
 
 🚀 Setup Instructions
-  !. Clone repository 
+
+  1. Clone repository 
       git clone https://github.com/adityasharma455/College_Student_App.git
   2. Open in Android Studio
   3. Add google-services.json in app/
